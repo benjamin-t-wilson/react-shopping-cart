@@ -1,4 +1,4 @@
-- View deployed project: https://www.react-book-shop.netlify.com
+- View deployed project: https://react-book-shop.netlify.com
 - LinkedIn: https://www.linkedin.com/in/benjamin-t-wilson/
 - Website: https://btwicode.com
 
